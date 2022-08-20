@@ -12,6 +12,9 @@ App design for memers to post new memes and earn money. Memes are becoming a mai
 ### App Login Page
 ![1st Screen](https://imgur.com/bCm6JwC.png)
 
+### Navigation main screens
+![1st Screen](https://imgur.com/eJS8M7h.png)
+
 
 **Meme: Memes are a cultural shorthand that, like all forms of communication, evolve with those who use them. Nobody can claim to know or understand every single meme that exists. There are simply too many, and they can often be too personal to the individuals creating and sharing them.
 
