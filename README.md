@@ -6,9 +6,6 @@ App design for memers to post new memes and earn money. Memes are becoming a mai
 ## What makes it different from other social platform?
 1. Well, switch provides a special section for Memers** to post memes**. App allow them to add memes to meme section and attract people to follow theme and rate them as memer. Moreover, app held meme tournament to attract memers to share app with others. 
 
-### App Flow
-![1st Screen](https://imgur.com/SdJGRV8.png)
-
 ### App Login Page
 ![1st Screen](https://imgur.com/bCm6JwC.png)
 
@@ -17,6 +14,9 @@ App design for memers to post new memes and earn money. Memes are becoming a mai
 
 ### Navigation main screens ||
 ![1st Screen](https://imgur.com/EIFZpIm.png)
+
+### App Flow
+![1st Screen](https://imgur.com/SdJGRV8.png)
 
 
 **Meme: Memes are a cultural shorthand that, like all forms of communication, evolve with those who use them. Nobody can claim to know or understand every single meme that exists. There are simply too many, and they can often be too personal to the individuals creating and sharing them.
