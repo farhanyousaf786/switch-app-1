@@ -9,6 +9,6 @@ App design for memers to post new memes and earn money. Memes are becoming a mai
 ### App Flow
 ![1st Screen](https://imgur.com/SdJGRV8.png)
 
-** ## Meme: Memes are a cultural shorthand that, like all forms of communication, evolve with those who use them. Nobody can claim to know or understand every single meme that exists. There are simply too many, and they can often be too personal to the individuals creating and sharing them.
+## **Meme: Memes are a cultural shorthand that, like all forms of communication, evolve with those who use them. Nobody can claim to know or understand every single meme that exists. There are simply too many, and they can often be too personal to the individuals creating and sharing them.
 
-** ## Memer: Who genrate memes.
+## **Memer: Who genrate memes.
