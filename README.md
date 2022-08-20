@@ -32,12 +32,14 @@ App design for memers to post new memes and earn money. Memes are becoming a mai
 * Dart
 * Andriod Studio
 * Firebase
+* Fireabase security rules
+* Firebase Storage
 * Firebase Cloud Functions
+* Digital Ocean (Store Videos and Images files)
 * Rive (Animations)
 * Lottie Files (Animations)
 * PixaLab (Logo Design)
 * Play console (App deployment)
-* Digital Ocean
 * Javascript
 
 ## Icebox - Future plan
@@ -48,4 +50,4 @@ App design for memers to post new memes and earn money. Memes are becoming a mai
 
 ## Special Thanks
 
-* To many dev on stacoverflow who help me to fix bugs.
+* To all devs on stackoverflow.com who help me to fix bugs.
