@@ -35,11 +35,12 @@ App design for memers to post new memes and earn money. Memes are becoming a mai
 * Fireabase security rules
 * Firebase Storage
 * Firebase Cloud Functions
+* Admob (For ads)
+* Google Play console (App deployment)
 * Digital Ocean (Store Videos and Images files)
 * Rive (Animations)
 * Lottie Files (Animations)
 * PixaLab (Logo Design)
-* Play console (App deployment)
 * Javascript
 
 ## Icebox - Future plan
