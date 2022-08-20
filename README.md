@@ -8,4 +8,4 @@ App design for memers to post new memes and earn money. Memes are becoming a mai
 
 //
 ### App Flow
-![1st Screen](https://imgur.com/SdJGRV8)
+![1st Screen](https://imgur.com/SdJGRV8.png)
