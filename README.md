@@ -22,3 +22,30 @@ App design for memers to post new memes and earn money. Memes are becoming a mai
 **Meme: Memes are a cultural shorthand that, like all forms of communication, evolve with those who use them. Nobody can claim to know or understand every single meme that exists. There are simply too many, and they can often be too personal to the individuals creating and sharing them.
 
 **Memer: Who generate memes.
+
+### Launch Here
+[Mobile Gallery](https://play.google.com/store/apps/details?id=com.switchapp.cluster)
+
+
+## Technologies Used
+* Flutter
+* Dart
+* Andriod Studio
+* Firebase
+* Firebase Cloud Functions
+* Rive (Animations)
+* Lottie Files (Animations)
+* PixaLab (Logo Design)
+* Play console (App deployment)
+* Digital Ocean
+* Javascript
+
+## Icebox - Future plan
+
+* Enhance UI
+* Add Game feature for memers
+
+
+## Special Thanks
+
+* To many dev on stacoverflow who help me to fix bugs.
