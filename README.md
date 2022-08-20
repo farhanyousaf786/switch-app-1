@@ -21,4 +21,4 @@ App design for memers to post new memes and earn money. Memes are becoming a mai
 
 **Meme: Memes are a cultural shorthand that, like all forms of communication, evolve with those who use them. Nobody can claim to know or understand every single meme that exists. There are simply too many, and they can often be too personal to the individuals creating and sharing them.
 
-**Memer: Who genrate memes.
+**Memer: Who generate memes.
