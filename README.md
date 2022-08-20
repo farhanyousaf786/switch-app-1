@@ -24,7 +24,7 @@ App design for memers to post new memes and earn money. Memes are becoming a mai
 **Memer: Who generate memes.
 
 ### Launch Here
-[Mobile Gallery](https://play.google.com/store/apps/details?id=com.switchapp.cluster)
+[Switch - Google Play](https://play.google.com/store/apps/details?id=com.switchapp.cluster)
 
 
 ## Technologies Used
